@@ -1,1 +1,3 @@
-# biostat776-intro-chelsy-liu
+# Introducing myself
+
+This website contains a short introduction of Chelsy
